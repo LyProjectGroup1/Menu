@@ -1,0 +1,47 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #fdf2f1;
+}
+
+.item-card{
+  background-color: #f5c3bf;
+}
+
+.heading{
+  color: #bd1206;
+}
+
+.button{
+  margin: 0 auto !important;
+  width: 250px;
+
+}
+
+.btn-group-container {
+  max-width: 600px; /* set your desired max-width here */
+  margin: auto; /* center the container horizontally */
+  padding: 10px;
+}
+
+.table-no{
+font-weight: 500;
+font-size: medium;
+margin: 15px;
+}
+
+.center{
+  text-align: center;
+}
+
+.btn-group .btn {
+  height: 30px;
+}
+
+.btn-group .flex-grow-1 {
+  height: 30px;
+}
+
+.btn-work{ text-align: center; }
